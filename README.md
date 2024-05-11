@@ -2,8 +2,6 @@
 
 Welcome to the Missile Impact Simulator! This simulator allows you to analyze the effects of missile strikes on military planes, providing a comprehensive platform for understanding the dynamics of impact and damage on aircraft surfaces.
 
-![Missile Impact](missile_impact.gif)
-
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -17,6 +15,10 @@ Welcome to the Missile Impact Simulator! This simulator allows you to analyze th
 ## Introduction
 
 The Missile Impact Simulator is a powerful tool designed for military analysts, aerospace engineers, and enthusiasts to simulate various scenarios involving missile impacts on aircraft surfaces. Whether you're studying defense systems, evaluating aircraft vulnerabilities, or simply curious about the physics of impact, this simulator provides an interactive and visual platform for exploration.
+
+<p align="center">
+  <img src="https://github.com/Rishit-katiyar/missile-impact-simulator/assets/167756997/59690011-387c-4d93-82f2-12a8ca107755" alt="Figure_123456789yutyrewq" width="600"/>
+</p>
 
 ## Features
 
